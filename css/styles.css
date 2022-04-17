@@ -1,0 +1,13 @@
+body {
+    background-color: hsl(90, 49%, 73%);
+    color: #972B15;
+    font-family: "Brush Script MT", "Garamond", sans-serif;
+    font-size: 18px;
+}
+li {
+    font-weight: bold;
+}
+
+h3 .nutri {
+    font-size: 8px;
+}
